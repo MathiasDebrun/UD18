@@ -1,11 +1,11 @@
-package Ejercicio3;
+package Ejercicio5;
 
 import java.sql.SQLException;
 import java.sql.Statement;
 
 import javax.swing.JOptionPane;
 
-public class InsertarDatos extends Ejercicio3APP {
+public class InsertarDatos extends Ejercicio5APP {
 	// Insertar Departamento
 	public static void insertDespacho(String db, String table_name,  String NOMBRE, int CAPACIDAD) {
 		try {

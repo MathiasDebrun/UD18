@@ -1,8 +1,8 @@
-package Ejercicio3;
+package Ejercicio5;
 
 import java.sql.Connection;
 
-public class Ejercicio3APP {
+public class Ejercicio5APP {
 	public static Connection conexion;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

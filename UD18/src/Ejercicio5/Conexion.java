@@ -1,11 +1,11 @@
-package Ejercicio3;
+package Ejercicio5;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
 
-public class Conexion extends Ejercicio3APP {
+public class Conexion extends Ejercicio5APP {
 	
 	//Abrir Conexión 
 	

@@ -1,9 +1,9 @@
-package Ejercicio3;
+package Ejercicio5;
 
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class CrearTablas extends Ejercicio3APP {
+public class CrearTablas extends Ejercicio5APP {
 	// Crear Tabla Departamento
 	public static void createTableDespacho(String db,String name) {
 		try {
