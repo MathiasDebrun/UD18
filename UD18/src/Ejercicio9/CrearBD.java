@@ -1,12 +1,11 @@
-package Ejercicio8;
-
+package Ejercicio9;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.Connection;
 
 import javax.swing.JOptionPane;
 
-public class CrearBD extends Ejercicio8APP{
+public class CrearBD extends Ejercicio9APP{
 
 	public static void createDB(String name) {
 		try {

@@ -38,7 +38,7 @@ public class InsertarDatos extends Ejercicio5APP {
 					+ "\"" + DNI + "\" ,"
 					+ "\""+nombreAPELLIDO +  "\","
 					+ "\"" +DNIJEFE+ "\","
-					+ DESPACHO + ")";
+					+ DESPACHO + ");";
 			Statement st = conexion.createStatement();
 			st.executeUpdate(Query);
 			
